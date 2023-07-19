@@ -1,9 +1,7 @@
 table,td,th{
     border:2px solid black ;
     border-collapse: collapse;
-    background-color: rgb(240, 237, 235);
+    background-color: rgb(247, 244, 242);
     
 }
-body{
-    background-color: gray;
-}
+
